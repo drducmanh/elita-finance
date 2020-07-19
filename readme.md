@@ -3,6 +3,8 @@ Plugin creates a 3-step financial loan form
 Step 1: Select types of pledged properties
 Step 2: Choose the amount to borrow; months to borrow
 Step 3: Enter information of the borrower and send
+
+====
 In admin:
 
 You can add / edit / delete asset types
